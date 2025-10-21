@@ -25,7 +25,7 @@ h3 {
 
 /* ===== BANNER ===== */
 .banner-topo {
-    background-image: url("../img/banner-topo.jpg");
+    background-image: url("img/banner-topo.jpg");
     background-position: center;
     background-size: cover;
     padding: 80px 20px;
